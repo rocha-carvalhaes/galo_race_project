@@ -1,0 +1,5 @@
+# .gitignore
+myenv/
+
+# datawarehouses
+04_datawarehouse
