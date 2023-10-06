@@ -15,6 +15,6 @@ The main goal of this project is to clarify how was my performance on the race. 
 The race results are displayed in a .pdf file, in the web. The results are going to be downloaded and treated locally. Since there, all the extracting, transforming and loading are going to be done with Python. The results are going to be structured in a local (to be revised) Datalake. After that, one layer of data refinement is enough to store it in a local Warehouse, hosted in SQLite. From then, the data will be consumed directly from Power BI and the results
 
 ## Expected results
-At the end of this project, I expect to discover how much effort I have to put on so I can finish my next race within the Top 50% competitors.
+At the end of this project, I expect to have a clue of how much effort I have to put on so I can finish my next race within the Top 50% competitors.
 
 
