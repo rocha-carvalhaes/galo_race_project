@@ -2,7 +2,7 @@
 ## Overview
 -- 2023! That is going to be my best year so far --
 
-I signed up for my first street race! I trained for 6 months. I raced. I got the race results and... I have no idea it was -- WHAT? -- That is right! 
+I signed up for my first street race! I trained for 6 months. I raced. I got the race results and... I have no idea how it was -- WHAT? -- That is right! 
 
 I placed 901 out of 1343 competitors but that doesn't say much. How far I was from the last place? How far I was from the first? How hard do I have to train to reach the Top 50%?
 
